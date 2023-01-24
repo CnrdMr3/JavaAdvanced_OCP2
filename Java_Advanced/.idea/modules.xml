@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaForDummies_Book02/JavaForDummies_Book02_ProgrammingBasics.iml" filepath="$PROJECT_DIR$/JavaForDummies_Book02/JavaForDummies_Book02_ProgrammingBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Advanced.iml" filepath="$PROJECT_DIR$/Java_Advanced.iml" />
     </modules>
   </component>
