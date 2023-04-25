@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5366ab-a503-4728-9fa0-e3ca9f67e596" name="Changes" comment="" />
+    <list default="true" id="7c5366ab-a503-4728-9fa0-e3ca9f67e596" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/src/main/java/com/example/HelloAplication/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/src/main/java/com/example/HelloAplication/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickMe_p566/src/main/resources/com/example/HelloAplication/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +62,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_directory_selection": "C:/Users/ConradMaré/Desktop/Java_Advanced/JavaAdvanced_OCP2/Java_Advanced/JavaForDummies_Book02/src/HelloApp_p46",
-    "last_opened_file_path": "C:/Users/ConradMaré/.m2",
+    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Java_Advanced/Dummies/Dummies.iml",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
